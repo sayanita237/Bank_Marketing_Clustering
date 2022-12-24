@@ -10,7 +10,7 @@ A leading bank wants to develop a customer segmentation to give promotional offe
 
 1.5 Describe cluster profiles for the clusters defined. Recommend different promotional strategies for different clusters.
 
-Data Dictionary for Market Segmentation:
+**Data Dictionary for Market Segmentation:**
 
 spending: Amount spent by the customer per month (in 1000s)
 
